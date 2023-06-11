@@ -50,6 +50,9 @@ def max_marks(list1):
             l=i
     return l        
 ```
+## Sample input and output:
+![image](https://github.com/gowrisankarponnusamy/FindMaximum/assets/119393123/61aaeca7-0e2d-4751-a221-60c04b36c866)
+![image](https://github.com/gowrisankarponnusamy/FindMaximum/assets/119393123/2bb495e1-44a2-4c95-b03a-17233f58d929)
 
 ## Output:
 
